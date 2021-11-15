@@ -1,0 +1,16 @@
+void main() {
+  int i;
+  if (i) {
+    int i;
+    i = 6;
+    if (i) {
+      int i;
+      i = 5;
+      if (i) {
+        int i;
+	i = 4;
+	if (i) { i = 0; }
+      }
+    }
+  }
+}

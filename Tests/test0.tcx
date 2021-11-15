@@ -1,0 +1,9 @@
+void main() {
+    int a; int b; int c; int d;
+    while (a + b < c * d /3) {
+        if (a < b) { c = 2; }
+        else { c = 3; }
+        d = 3;
+    }
+    a = a / 3;
+}

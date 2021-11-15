@@ -1,0 +1,10 @@
+int main() {
+    int t;
+    int c;
+    int x;
+    while (x > t) {
+        if (x > 0) { x = t + c + x; }
+    }
+    t = t + c / x;
+}
+
